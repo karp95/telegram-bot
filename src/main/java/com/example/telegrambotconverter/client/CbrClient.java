@@ -1,6 +1,5 @@
 package com.example.telegrambotconverter.client;
 
-import com.example.telegrambotconverter.exeption.ServiceException;
 import com.squareup.okhttp.OkHttpClient;
 import com.squareup.okhttp.Request;
 import org.springframework.beans.factory.annotation.Autowired;
